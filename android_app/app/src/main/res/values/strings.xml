@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Developers Unity3D Beta</string>
+    <string name="action_leave">Leave</string>
+    <string name="action_send">Enviar</string>
+    <string name="prompt_message">Mensaje...</string>
+
+    <string name="error_connect">Fallo de conexión</string>
+
+    <!-- messages -->
+    <string name="message_welcome">¡BIENVENIDO!</string>
+    <plurals name="message_participants">
+        <item quantity="one">%d Participantes</item>
+        <item quantity="other">%d Participantes</item>
+    </plurals>
+    <string name="message_user_joined">%s a Entrado</string>
+    <string name="message_user_left">%s a Salido</string>
+    <string name="user_action_typing">Escribiendo...</string>
+
+</resources>
